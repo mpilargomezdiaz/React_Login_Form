@@ -1,0 +1,108 @@
+/*
+Ticket de Jira: DP-21
+  Nombre: Pilar
+  Fecha: 07/04
+  Descripción: Estilos para el formulario de Inicio de sesión.
+*/
+
+
+.Login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+  padding-bottom: 40px;
+  height: 660px;
+}
+
+.Login__Form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.Login__divForm {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 50px;
+  padding-top: 20px;
+  border: 1px solid #424242;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+}
+
+.Login__divForm h1 {
+  margin-top: 0;
+  text-align: center;
+  color: #424242;
+}
+
+.Login__divForm label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+  color: #424242;
+  text-align: center;
+}
+
+.Login__divForm input[type="text"],
+.Login__divForm input[type="password"] {
+  width: 250px;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #424242;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.PasswordContainer {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.Login_img--icon {
+  cursor: pointer;
+  width: 28px;
+  height: 28px;
+  background: none;
+  border: none;
+  position: absolute;
+  left: 10px;
+}
+
+.Login__Button--togglePasswordVisibility {
+  background: none;
+  border: none;
+  position: absolute;
+  cursor: pointer;
+  font-size: 20px;
+  color: #424242;
+  text-decoration: underline;
+  padding: 0;
+  margin-top: 60px;
+}
+
+.Login__ButtonLog {
+  padding: 10px 20px;
+  background-color: #424242;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 15px 0px 15px 0px;
+}
+
+.Login__errorMessage {
+  color: rgb(132, 0, 0);
+  margin-top: 10px;
+}
+
+.Login__successMessage {
+  color: green;
+  margin-top: 10px;
+}
