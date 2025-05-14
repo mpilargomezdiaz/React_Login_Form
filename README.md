@@ -44,7 +44,11 @@ Este repositorio contiene **únicamente código propio** y no incluye informaci�
 
 2. Una vez tengas arrancado el servidor (`npm start` en el repositorio del backend), clona este repositorio:
 
+```bash
+
 git clone https://github.com/mpilargomezdiaz/React_Login_Form.git
+
+```
 
 3. Accede al directorio del proyecto.
 
