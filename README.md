@@ -71,4 +71,9 @@ El usuario de prueba que se registra (si no está registrado con anterioridad) e
 > ⚠️ Aunque la contraseña está cifrada en la base de datos, puedes encontrarla en texto plano en el backend, ya que este usuario fue creado únicamente con fines de prueba.  
 > Si deseas adaptar el sistema de autenticación para un entorno más realista, deberías configurar variables de entorno adecuadas y reforzar la seguridad del backend.
 
+---
+
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
