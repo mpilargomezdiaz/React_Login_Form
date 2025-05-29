@@ -73,10 +73,12 @@ El usuario de prueba que se registra (si no está registrado con anterioridad) e
 
 ---
 
-## 📄 License
+---
 
-This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License. See the [LICENSE](./LICENSE) file for details.
+## 📄 Licencia
 
-You can freely use, copy, and modify this code for non-commercial purposes, but commercial use is not permitted.
+Este proyecto está licenciado bajo la licencia Creative Commons Atribución-NoComercial 4.0 Internacional (CC BY-NC 4.0). Consulta el archivo [LICENSE](./LICENSE) para más detalles.
+
+Puedes usar, copiar y modificar este código libremente para fines **no comerciales**, siempre que se mantenga la atribución correspondiente. **No está permitido su uso comercial**.
 
 
